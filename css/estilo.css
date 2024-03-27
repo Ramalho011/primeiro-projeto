@@ -30,6 +30,11 @@ h1 {
    border-radius: 5px;
 transition: bacgrond-color: 0.3s ease-in;
 
+&:hover{
+    background-color: red;
+}
+
+
 /*nexting elementos*/
 a{
     text-decoration: none;
